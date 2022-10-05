@@ -57,3 +57,5 @@ import plotly.express as px
 -  Most of the **remote** employees work from **different countries**
 -  Company of **medium size**, have the most job roles like **Data scientist, Data Analyst & Data engineer**
 -  Due to covid pandamic, most employees started working work from home(remote) also **small companies** were providing employees higher salary compare to **large company**
+
+**To view complete data analysis of Data science jobs- [Click Here](https://www.kaggle.com/code/pantanjali/data-science-job-analysis)
