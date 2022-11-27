@@ -13,8 +13,7 @@ Many of the techniques and processes of data analytics have been automated into 
 Data analytics is important because it helps businesses optimize their performances. Implementing it into the business model means companies can help reduce costs by identifying more efficient ways of doing business and by storing large amounts of data.
 A company can also use data analytics to make better business decisions and help analyze customer trends and satisfaction,which can lead to new—and better—products and services. 
 
-## 🧿Types of Data Analytics
-- Descriptive analytics
-- Diagnostic analytics
-- Predictive analytics
-- Prescriptive analytics
+## 🧿Topics covered in this repositary
+- Basic python frameworks- numpy, seaborn, pandas and & matplotlib
+- Basic machine Learning algorithm
+- Time series using ARIMA
