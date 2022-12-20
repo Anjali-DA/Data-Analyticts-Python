@@ -14,4 +14,4 @@
 - Created the train & test datasets with datetime function form year 2005 to 2015 and used ARIMA function on these datasets.
 
 ## What I concluded from this time series forecasting
-- Predicted the datasets with ARIMA & SARIMAX models and plotted the graph to 
+- Predicted the datasets with ARIMA & SARIMAX models and plotted the graph to find out the correlation given by these models.
