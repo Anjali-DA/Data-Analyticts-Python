@@ -13,3 +13,5 @@
 - As it is a seasonal data, I did 12 times differencing using **shift(12)**. After the new column of *LandAverageTemperature_12difference*,I used adfuller to find the p-value which is **3.692614581683388e-29** and plotted the correlations by ACF and PACF.
 - Created the train & test datasets with datetime function form year 2005 to 2015 and used ARIMA function on these datasets.
 
+## What I concluded from this time series forecasting
+- Predicted the datasets with ARIMA & SARIMAX models and plotted the graph to 
