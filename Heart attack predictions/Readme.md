@@ -2,5 +2,5 @@
 ## Objective
 Performing the Exploratory Data Analysis & regressive machine learning on this dataset
 
-## About the dataset
-In this analysis, my **label** is **target** and my **features** are sex, fbs, restecg, exng, slp, thall, age, trtbps, chol, thalachh, oldpeak for training the model. With these features and label, I had splitted the data into four datasets **i.e. ** 
+## Handling the dataset
+Before getting into the EDA, It's important to mine the data for increasing the efficiency in EDA.
