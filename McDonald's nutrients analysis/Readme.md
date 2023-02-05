@@ -18,4 +18,4 @@ The menu items and nutrition facts were scraped from the McDonald's website
 - Can a heart or diabetic patient consume these items? If so what type of items they will buy?
 - For a normal working person, Is it good to consume meal to have balanced diet?
 
-*To study the McDonald's diet analysis- [Diet](https://github.com/Anjali-DA/Data-Analyticts-Python/blob/main/McDonald's%20nutrients%20analysis/mcdonalds-diet-analysis.ipynb)
+*To study the McDonald's diet analysis-* [Diet](https://github.com/Anjali-DA/Data-Analyticts-Python/blob/main/McDonald's%20nutrients%20analysis/mcdonalds-diet-analysis.ipynb)
