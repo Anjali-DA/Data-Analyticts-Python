@@ -18,19 +18,4 @@ The menu items and nutrition facts were scraped from the McDonald's website
 - Can a heart or diabetic patient consume these items? If so what type of items they will buy?
 - For a normal working person, Is it good to consume meal to have balanced diet?
 
-## 🖥️How I approched to solve this dataset
-**1.** Imported libraries for data wrangling & data visualization.
-``` Python
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
-```
-**2.** Loaded the dataset with pandas with *read_csv().*
-
-**3.** Checked the missing values in the datasets with *isnull.sum()*, and found one missing value in the column **'Sodium'**. With function **fillna()**, I used method called 'Pad' to fillin the single value in column **'Sodium'**.
-
-(**pad**: *This method is similar to the DataFrame. fillna() method and it fills NA/NaN values using the ffill() method. It returns the DataFrame object with missing values filled or None if inplace=True.*)
-
-**4.** 
+*To study the McDonald's diet analysis- [Diet](https://github.com/Anjali-DA/Data-Analyticts-Python/blob/main/McDonald's%20nutrients%20analysis/mcdonalds-diet-analysis.ipynb)
