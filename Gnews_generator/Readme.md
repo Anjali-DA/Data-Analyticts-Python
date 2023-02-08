@@ -7,7 +7,7 @@ In this notebook, I build an application with python frameworks, helps in the ex
 
 **What I learned from this project?**
 
-I got to learn a new python module- *gnewsclient* & with the help of this module, I created an object called NewsClient that will help in the extraction of the news from the google news feed.
+I got to learn a new python module- *gnewsclient* & with the help of this module, I created an object called **NewsClient** that will help in the extraction of the news from the google news feed.
 
-**Sources** 
+**Sources**:  
 [GnewsFeed](https://www.geeksforgeeks.org/build-an-application-to-extract-news-from-google-news-feed-using-python/?ref=rp)
