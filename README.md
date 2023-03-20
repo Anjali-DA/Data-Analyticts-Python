@@ -10,4 +10,4 @@ A company can also use data analytics to make better business decisions and help
 **Let's begin my DA journey with my minor projects🐼**
 - [Gnews generator](https://github.com/Anjali-DA/Data-Analyticts-Python/tree/main/Gnews_generator) : Learned about the new library known as *gnewclient*.
 
-- [Time series analysis](https://github.com/Anjali-DA/Data-Analyticts-Python/blob/main/Time%20series/Project-Global%20temp%20forcasting%20(1).ipynb) : Analayzed the time series dataset with *plot_acf,plot_pacf ARIMA & SARIMA
+- [Time series analysis](https://github.com/Anjali-DA/Data-Analyticts-Python/blob/main/Time%20series/Project-Global%20temp%20forcasting%20(1).ipynb) : Analayzed the time series dataset with *plot_acf,plot_pacf ARIMA & SARIMA*
